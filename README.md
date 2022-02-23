@@ -11,6 +11,6 @@ Cuando esté terminada la instalación, el cibercafé dispondrá de diez equipos
 
 Necesitaría dos máquinas con windows server y diez máquinas con windows 7. 
 
-Las dos máquinas con windows server estarán conectadas entre sí y harían de servidores, uno sería el principal y el otro el secundario. Los equipos con windows 7 estarán conectados a los servidores, cinco en cada servidor por si alguna vez falla un servidor seguiría funcionando el otro y estos serían los equipos que van a estar a disposición de los clientes.
+Las dos máquinas con windows server estarán conectadas entre sí y harían de servidores, uno sería el principal y el otro el secundario. Los equipos con windows 7 estarán conectados a los servidores, cinco en cada servidor por si alguna vez falla un servidor seguiría funcionando el otro, estos diez equipos estarían a disposición de los clientes.
 
 Calculo que tardaré entre dos y tres semanas en montarlo todo y configurar cada equipo.
