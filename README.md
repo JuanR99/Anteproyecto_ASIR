@@ -1,7 +1,7 @@
 # Anteproyecto_ASIR
 
 <h1>Cibercafé</h1>
-<h5>Autor: Juan Ramón Fernández Parra.</h5>
+<h4>Autor: Juan Ramón Fernández Parra.</h4>
 
 Un cibercafé me ha contratado para montar dos servidores y varios equipos configurados con perfiles obligatorios y horarios de uso, que estarán a disposición de los clientes.
 
