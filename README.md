@@ -5,7 +5,7 @@
 
 Un cibercafé me ha contratado para montar dos servidores y varios equipos configurados con perfiles obligatorios y horarios de uso, que estarán a disposición de los clientes.
 
-Servirá para que los clientes dispongan de equipos que usar en caso de que no tengan ordenador propio o no hayan ido con su ordenador al cibercafé y tengan que hacer algo.
+Servirá para que los clientes dispongan de equipos que usar en caso de que no tengan ordenador propio o no hayan ido con su ordenador al cibercafé y necesiten hacer algo.
 
 Cuando esté terminada la instalación, el cibercafé dispondrá de diez equipos que podrán usar los clientes para lo que necesiten.
 
